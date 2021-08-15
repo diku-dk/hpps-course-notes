@@ -1,0 +1,9 @@
+[book]
+authors = ["Troels Henriksen, Kenneth Skovhede"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Course notes for High Performance Programming and Systems"
+
+[output.html]
+mathjax-support = true
