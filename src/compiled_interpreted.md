@@ -18,7 +18,7 @@ abstractions.  In practice, almost all progamming is conducted in
 
 For the purpose of this chapter, a high-level programming language is
 a language that is designed not to directly represent the capabilities
-and details of some machine, but rather to \textit{abstract} the
+and details of some machine, but rather to *abstract* the
 mechanical details, in order to make programming simpler.  However, we
 should note that "high-level" is a spectrum.  In general, the meaning
 of the term "high-level programming language" depends on the speaker
